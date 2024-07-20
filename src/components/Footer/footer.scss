@@ -1,0 +1,10 @@
+.footer {
+  margin-bottom: 40px;
+  background-color: var(--bg-footer);
+  &__title {
+    padding: 40px 0;
+    color: var(--footer-color);
+    font-size: 15px;
+    text-align: center;
+  }
+}

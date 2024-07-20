@@ -1,0 +1,32 @@
+.velocity {
+  background-image: url("./../../../../src/img/velocity/velo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  &__title {
+    padding: 180px 0 105px 0;
+    text-align: center;
+    color: var(--white);
+    font-size: 59px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  &__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+  }
+  &__btn {
+    display: inline-block;
+    border: none;
+    background: none;
+    padding: 10px 30px;
+    color: var(--white);
+    background-color: var(--header-color);
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+}

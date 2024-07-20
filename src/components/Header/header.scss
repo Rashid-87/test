@@ -1,0 +1,27 @@
+.header {
+  padding: 15px 0;
+  &__wrapp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__title {
+    color: var(--header-color);
+    font-size: 25px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+  &__menu {
+    column-gap: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__link {
+    color: var(--color-text);
+    font-size: 15px;
+  }
+  &__active {
+    color: var(--header-color);
+  }
+}

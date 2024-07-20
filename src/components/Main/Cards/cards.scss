@@ -1,0 +1,39 @@
+.cards {
+  margin: 75px 0;
+  &__title {
+    color: var(--color-text);
+    font-size: 30px;
+    letter-spacing: 5px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  &__subtitle {
+    margin: 15px 0 60px 0;
+    color: var(--color-desc);
+    font-size: 17px;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  &__wrapper {
+    display: flex;
+    text-align: center;
+    column-gap: 20px;
+  }
+  &__card {
+    width: calc(33.33333% - 13.33px);
+  }
+  &__text {
+    margin: 20px 0 15px 0;
+    color: var(--color-desc);
+    font-size: 20px;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+  }
+  &__desc {
+    color: var(--color-desc);
+    font-size: 14px;
+    line-height: 25px;
+  }
+}
+

@@ -1,0 +1,37 @@
+.network {
+  margin-bottom: 75px;
+  &__wrapper {
+    display: flex;
+    gap: 60px;
+    flex-wrap: wrap;
+  }
+  &__card {
+    width: calc(33.333% - 40px);
+  }
+  &__title {
+    color: var(--color-text);
+    font-size: 18px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+  }
+  &__text {
+    color: var(--color-desc);
+    font-size: 14px;
+    line-height: 25px;
+  }
+  &__menu {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  &__item {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+  }
+  &__link {
+    font-size: 14px;
+    color: var(--color-desc);
+  }
+}

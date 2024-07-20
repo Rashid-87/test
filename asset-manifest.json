@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.03a4499d.css",
+    "main.js": "/test/static/js/main.a95fbf00.js",
+    "static/media/velo.png": "/test/static/media/velo.886af6c738c969633a5d.png",
+    "static/media/tab.png": "/test/static/media/tab.eafc4d80e0a1c8282f82.png",
+    "static/media/tab1.png": "/test/static/media/tab1.828ba07ffca86a5d6772.png",
+    "static/media/services.png": "/test/static/media/services.e0699b00338453f2725b.png",
+    "static/media/services1.png": "/test/static/media/services1.6cfbc0f00588fa5eee23.png",
+    "static/media/tab2.png": "/test/static/media/tab2.7b005907f8fe1f4347c3.png",
+    "static/media/cards(2).svg": "/test/static/media/cards(2).22125abf265353f887c3c8b7770f60bd.svg",
+    "static/media/cards(3).svg": "/test/static/media/cards(3).cf8979abe624b4238387d1bd90796267.svg",
+    "static/media/cards(1).svg": "/test/static/media/cards(1).9719e06bddb6ffcf0c357c8ada698965.svg",
+    "index.html": "/test/index.html",
+    "main.03a4499d.css.map": "/test/static/css/main.03a4499d.css.map",
+    "main.a95fbf00.js.map": "/test/static/js/main.a95fbf00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03a4499d.css",
+    "static/js/main.a95fbf00.js"
+  ]
+}
